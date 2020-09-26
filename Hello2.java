@@ -4,8 +4,10 @@ public class HelloEclipse {
 	
 
     public static void main(String[] args) {
+
     	byte i_1=11;
-    	
+
+ 
 //    	System.out.println("hello");
 ////    	System.out.println("test");
 //    	System.out.println('a');
