@@ -2,14 +2,7 @@ package xxx;
 
 public class HelloEclipse {
 	
-	//������
-	
-	/* �h
-	 * ��
-	 * �`
-	 * ��
-	 */
-	
+
     public static void main(String[] args) {
     	int i_1=10;
     	
