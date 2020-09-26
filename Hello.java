@@ -4,7 +4,7 @@ public class HelloEclipse {
 	
 
     public static void main(String[] args) {
-    	int i_1=10;
+    	double i_1=10;
     	
 //    	System.out.println("hello");
 ////    	System.out.println("test");
